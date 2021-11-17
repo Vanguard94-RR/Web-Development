@@ -1,0 +1,10 @@
+body {
+  background-image: url(thunder3371.jpeg);
+  background-size:cover;
+}
+.section Left_Header{
+    font-size: 45pc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-decoration: none;
+}
